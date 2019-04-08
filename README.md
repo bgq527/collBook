@@ -1,5 +1,5 @@
 # Modernizing Field Collection Techniques (edited)
-## Dax's crazy edits
+### (Dax's crazy edits)
 
 <h1 align=center>
 <img src="ui/resources/logo-collbook/horizontal.png" width=40%>
